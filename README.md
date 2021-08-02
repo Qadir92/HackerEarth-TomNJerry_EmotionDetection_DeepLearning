@@ -1,4 +1,4 @@
-# HackerEarth-TomNJerry_EmotionDetection_ImageClassification
+# HackerEarth-TomNJerry_EmotionDetection_DeepLearning
 **Model that detects the emotions of Tom or Jerry in each video frame.**
 ***
 ![enter image description here](https://github.com/Qadir92/HackerEarth-TomNJerry_EmotionDetection_ImageClassification/blob/main/Prediction%20Score.png?raw=true)
